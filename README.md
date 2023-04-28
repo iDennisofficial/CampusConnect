@@ -1,4 +1,4 @@
-# Educenter By Themefisher
+# Campus Connect
 
 Educenter is an educational website template with affluent, contemporary, modern and trendy features for your majestic presence in web with a simple user interface.
 
